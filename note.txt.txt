@@ -1,0 +1,4 @@
+first start the server with node index
+then if the server is started go to http://127.0.0.1:3000
+then you can append your desire file name after the link
+example : http://127.0.0.1:3000/main.js
