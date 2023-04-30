@@ -1,0 +1,244 @@
+/* this is just a sample page  */
+/* not a valid css file  */
+CSS Tutorial
+CSS HOME
+CSS Introduction
+CSS Syntax
+CSS Selectors
+CSS How To
+CSS Comments
+CSS Colors
+CSS Backgrounds
+CSS Borders
+CSS Margins
+CSS Padding
+CSS Height/Width
+CSS Box Model
+CSS Outline
+CSS Text
+CSS Fonts
+CSS Icons
+CSS Links
+CSS Lists
+CSS Tables
+CSS Display
+CSS Max-width
+CSS Position
+CSS Z-index
+CSS Overflow
+CSS Float
+CSS Inline-block
+CSS Align
+CSS Combinators
+CSS Pseudo-class
+CSS Pseudo-element
+CSS Opacity
+CSS Navigation Bar
+CSS Dropdowns
+CSS Image Gallery
+CSS Image Sprites
+CSS Attr Selectors
+CSS Forms
+CSS Counters
+CSS Website Layout
+CSS Units
+CSS Specificity
+CSS !important
+CSS Math Functions
+
+CSS Advanced
+CSS Rounded Corners
+CSS Border Images
+CSS Backgrounds
+CSS Colors
+CSS Color Keywords
+CSS Gradients
+CSS Shadows
+CSS Text Effects
+CSS Web Fonts
+CSS 2D Transforms
+CSS 3D Transforms
+CSS Transitions
+CSS Animations
+CSS Tooltips
+CSS Style Images
+CSS Image Reflection
+CSS object-fit
+CSS object-position
+CSS Masking
+CSS Buttons
+CSS Pagination
+CSS Multiple Columns
+CSS User Interface
+CSS Variables
+CSS Box Sizing
+CSS Media Queries
+CSS MQ Examples
+CSS Flexbox
+
+CSS Responsive
+RWD Intro
+RWD Viewport
+RWD Grid View
+RWD Media Queries
+RWD Images
+RWD Videos
+RWD Frameworks
+RWD Templates
+
+CSS Grid
+Grid Intro
+Grid Container
+Grid Item
+
+CSS SASS
+SASS Tutorial
+
+CSS Examples
+CSS Templates
+CSS Examples
+CSS Editor
+CSS Snippets
+CSS Quiz
+CSS Exercises
+CSS Certificate
+
+CSS References
+CSS Reference
+CSS Selectors
+CSS Functions
+CSS Reference Aural
+CSS Web Safe Fonts
+CSS Animatable
+CSS Units
+CSS PX-EM Converter
+CSS Colors
+CSS Color Values
+CSS Default Values
+CSS Browser Support
+
+
+CSS Introduction
+
+CSS is the language we use to style a Web page.
+What is CSS?
+
+    CSS stands for Cascading Style Sheets
+    CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+    CSS saves a lot of work. It can control the layout of multiple web pages all at once
+    External stylesheets are stored in CSS files
+
+CSS Demo - One HTML Page - Multiple Styles!
+
+Here we will show one HTML page displayed with four different stylesheets. Click on the "Stylesheet 1", "Stylesheet 2", "Stylesheet 3", "Stylesheet 4" links below to see the different styles:
+Why Use CSS?
+
+CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
+CSS Example
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+CSS Solved a Big Problem
+
+HTML was NEVER intended to contain tags for formatting a web page!
+
+HTML was created to describe the content of a web page, like:
+
+<h1>This is a heading</h1>
+
+<p>This is a paragraph.</p>
+
+When tags like <font>, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large websites, where fonts and color information were added to every single page, became a long and expensive process.
+
+To solve this problem, the World Wide Web Consortium (W3C) created CSS.
+
+CSS removed the style formatting from the HTML page!
+
+If you don't know what HTML is, we suggest that you read our HTML Tutorial.
+CSS Saves a Lot of Work!
+
+The style definitions are normally saved in external .css files.
+
+With an external stylesheet file, you can change the look of an entire website by changing just one file!
+
+
+Get started with your own server with Dynamic Spaces
+COLOR PICKER
+colorpicker
+
+Get certified
+by completing
+a CSS
+course today!
+w3schools CERTIFIED . 2023
+Subscribe
+Top Tutorials
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+How To Tutorial
+SQL Tutorial
+Python Tutorial
+W3.CSS Tutorial
+Bootstrap Tutorial
+PHP Tutorial
+Java Tutorial
+C++ Tutorial
+jQuery Tutorial
+Top References
+HTML Reference
+CSS Reference
+JavaScript Reference
+SQL Reference
+Python Reference
+W3.CSS Reference
+Bootstrap Reference
+PHP Reference
+HTML Colors
+Java Reference
+Angular Reference
+jQuery Reference
+Top Examples
+HTML Examples
+CSS Examples
+JavaScript Examples
+How To Examples
+SQL Examples
+Python Examples
+W3.CSS Examples
+Bootstrap Examples
+PHP Examples
+Java Examples
+XML Examples
+jQuery Examples
+Get Certified
+HTML Certificate
+CSS Certificate
+JavaScript Certificate
+Front End Certificate
+SQL Certificate
+Python Certificate
+PHP Certificate
+jQuery Certificate
+Java Certificate
+C++ Certificate
+C# Certificate
+XML Certificate
+FORUM | ABOUT
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using W3Schools, you agree to have read and accepted our terms of use, cookie and privacy policy.
+
+Copyright 1999-2023 by Refsnes Data. All Rights Reserved.
+W3Schools is Powered by W3.CSS.
+
+
+
